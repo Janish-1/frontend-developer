@@ -2,7 +2,7 @@
   "name": "frontend-developer",
   "displayName": "Frontend Developer",
   "description": "Frontend Development Pack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "JanishPancholi",
   "engines": {
     "vscode": "^1.97.0"
@@ -29,7 +29,6 @@
     "Zignd.html-css-class-completion",
     "pranaygp.vscode-css-peek",
     "octref.vetur",
-    "dbaeumer.jshint",
     "esbenp.prettier-vscode",
     "svelte.svelte-vscode",
     "hashicorp.terraform",
