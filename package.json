@@ -2,7 +2,7 @@
   "name": "frontend-developer",
   "displayName": "Frontend Developer",
   "description": "Frontend Development Pack",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "JanishPancholi",
   "engines": {
     "vscode": "^1.97.0"
